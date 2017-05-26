@@ -1,2 +1,2 @@
-╡Бйтр╩об
+test once
 test
