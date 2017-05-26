@@ -1,1 +1,2 @@
-test once
+2017年05月26日 13:44:47
+test twice
